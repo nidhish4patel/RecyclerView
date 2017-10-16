@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
     private Context context = MainActivity.this;
 
+    private String name  = "nidhishpatel";
+
     private RecyclerView recyclerView;
 
     private ArrayList titlesList = new ArrayList();
